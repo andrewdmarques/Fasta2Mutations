@@ -7,7 +7,7 @@ fasta2mutations is a comprehensive program that provides an analytical pipeline 
 1. Clone the repository to your local machine. This will create a local copy of the codebase on your system:
 
    ```shell
-   git clone https://github.com/andrewdmarques/fasta2mutations.git
+   git clone https://github.com/andrewdmarques/Fasta2Mutations.git
    ```
 
 2. Install the required R dependencies. The program relies on the `ape` library, a package for analyses of phylogenetics and evolution in R, which can be installed in R using the following command:
