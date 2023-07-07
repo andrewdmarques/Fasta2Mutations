@@ -1,4 +1,4 @@
-# fasta2mutations
+# Fasta2Mutations
 
 fasta2mutations is a comprehensive program that provides an analytical pipeline to perform various operations on DNA sequences of SARS-CoV-2 virus, including aligning sequences, detecting mutations, mapping those mutations to the relevant gene products, and generating a mutation table.
 
