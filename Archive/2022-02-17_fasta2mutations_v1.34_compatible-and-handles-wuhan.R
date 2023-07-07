@@ -119,7 +119,7 @@ for(i in 1:length(fas3$fasta)){ # Makes a fasta file that contains the wuhan seq
 seq_files <- as.character(ref$file_name)
 
 # For each sequence, perform an alignment, and determine the nt/aa mutations.
-for(i in 2104:length(seq_files)){
+for(i in 1:length(seq_files)){
   # i <- 1
   if(ref$wgs[i] == "y"){
     # Record the fasta sequence name to the reference data frame.
